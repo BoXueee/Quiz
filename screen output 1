@@ -1,0 +1,15 @@
+D:\Users\IBM_ADMIN\Documents\2016 python>python quiz.py
+Please input user name:
+boxue
+Please input password:
+
+Create database boxue_testdb succeeded.
+Create document boxue_testdoc succeeded.
+Get document boxue_testdoc succeeded.
+headers:  text/plain;charset=utf-8
+encoding:  utf-8
+text:  {"_id":"boxue_testdoc","_rev":"1-4c6114c65e295552ab1019e2b046b10e","foo":
+"bar"}
+
+json:  {u'_rev': u'1-4c6114c65e295552ab1019e2b046b10e', u'_id': u'boxue_testdoc'
+, u'foo': u'bar'}
